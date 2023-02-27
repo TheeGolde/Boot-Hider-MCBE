@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": "boots_invisible.png" {
+    "layer0": "minecraft:items/air"
+  }
+}
