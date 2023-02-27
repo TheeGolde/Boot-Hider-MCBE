@@ -1,0 +1,38 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:items/air"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "item": "minecraft:diamond_boots"
+      },
+      "model": "item/boots_invisible"
+    },
+    {
+      "predicate": {
+        "item": "minecraft:iron_boots"
+      },
+      "model": "item/boots_invisible"
+    },
+    {
+      "predicate": {
+        "item": "minecraft:golden_boots"
+      },
+      "model": "item/boots_invisible"
+    },
+    {
+      "predicate": {
+        "item": "minecraft:leather_boots"
+      },
+      "model": "item/boots_invisible"
+    },
+    {
+      "predicate": {
+        "item": "minecraft:netherite_boots"
+      },
+      "model": "item/boots_invisible"
+    }
+  ]
+}
